@@ -1,0 +1,36 @@
+@media(max-width:1024px){
+ .header{
+    padding: 0 30px;
+ }
+
+ .header-nav{
+    padding: 20px 0 ;
+ } 
+
+ .blog-left{
+    margin-right: 0px;
+ }
+
+ .header-list-item{
+    margin-right: 34px;
+ }
+
+ .footer-middle-left{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end
+ }
+
+ .sub{
+    max-width: 50%;
+    margin-top: 15px;
+    margin-right: 22px;
+ }
+
+
+ .footer-middle{
+    padding-left: 30px;
+ }
+
+}
+
